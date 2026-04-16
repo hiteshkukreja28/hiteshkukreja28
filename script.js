@@ -18,4 +18,4 @@ setInterval(() => {
   rotatingText.textContent = roles[index];
 
   rotatingText.style.animation = "fadeText 2s ease-in-out";
-}, 2000)
+}, 2000); 
